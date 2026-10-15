@@ -55,8 +55,8 @@ zapisane u `requirements.txt`: `scikit-learn==1.8.0`, `pandas==3.0.2`, `numpy==2
 ili da vrati upozorenje.
 
 ```bash
-git clone https://github.com/nio-98/car-price-prediction.git
-cd car-price-prediction
+git clone https://github.com/Nio-98/car-price-prediction.git
+cd car-price-predictions
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
